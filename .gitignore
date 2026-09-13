@@ -1,0 +1,10 @@
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+packaging/debian/build_deb/
+packaging/aur/src/
+packaging/aur/pkg/
+packaging/aur/*.tar.gz
+packaging/aur/*.pkg.tar*
